@@ -1,0 +1,25 @@
+{
+    "Default": {
+        "searches": [
+            {
+                "location": "Uppsala",
+                "chatId": "-1001784513452",
+                "query": {
+                    "location_ids[]": [
+                        950774,
+                        473577,
+                        473560,
+                        473571,
+                        473575,
+                        473570
+                    ],
+                    "rooms_min": 2,
+                    "price_max": 2500000,
+                    "new_construction": "exclude",
+                    "fee_max": 3500
+                },
+                "country": "SE"
+            }
+        ]
+    }
+}
