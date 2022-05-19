@@ -16,7 +16,7 @@
     "config": "3.3.7",
     "express": "4.17.3",
     "grammy": "1.7.0",
-    "mongoose": "6.2.2",
+    "mongoose": "6.3.4",
     "puppeteer": "13.3.2",
     "puppeteer-core": "13.3.2",
     "query-string": "7.1.1"
