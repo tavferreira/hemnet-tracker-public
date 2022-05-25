@@ -11,8 +11,8 @@
   "author": "Tiago Ferreira",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "7.17.5",
-    "@babel/node": "7.16.8",
+    "@babel/core": "7.18.2",
+    "@babel/node": "7.17.10",
     "config": "3.3.7",
     "express": "4.17.3",
     "grammy": "1.7.0",
